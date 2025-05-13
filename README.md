@@ -30,7 +30,7 @@ Repita quantas vezes quiser e crie sua própria batida!
 ✍️ Autor
 Feito com muito som e diversão por Matheus Araújo 🎶💙
 ---
-📸 Demonstração
+
 📷 Veja uma prévia do projeto:
 
 https://github.com/user-attachments/assets/9dcac5fe-06aa-46b2-866e-1ada78357c08
