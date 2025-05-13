@@ -28,7 +28,7 @@ Ouça o som correspondente
 Repita quantas vezes quiser e crie sua própria batida!
 ---
 ✍️ Autor
-Feito com muito som e diversão por Matheus Araújo 🎶💙
+Feito por Matheus Araújo 🎶💙
 ---
 
 📷 Veja uma prévia do projeto:
